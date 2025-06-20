@@ -11,7 +11,7 @@
 
 Este trabalho teve como objetivo investigar como ferramentas de **Inteligência Artificial (IA)** e **Processamento de Linguagem Natural (PLN)** podem ser utilizadas como **metodologia para identificar elementos estéticos e narrativos de nostalgia** no filme *Toy Story 3* (2010).
 
-A ideia inicial era realizar a análise fílmica, criar um painel semântico e fazer o cruzamento bibliográfico, porém ao final da primeira etapa, já existiam mais de 60 elementos nostálgicos e eu precisava pensar em uma solução para de alguma forma, conseguir selecionar apenas uma parcela das amostras. Então me veio a ideia de verificar quais cenas foram mais marcantes para os espectadores do filme e junto ao meu conhecimento com análise de dados e programação, acabou dando um outro rumo para o trabalho.
+A ideia inicial do trabalho era realizar uma análise fílmica para resgatar elementos nostálgicos do filme, construir um painel semântico com esses elementos e fazer o cruzamento com bibliografias acerca do tema. No entanto, ao final da primeira etapa, já haviam sido identificados mais de 60 elementos nostálgicos, o que tornou inviável para um trabalho de bacharelado. Diante disso, percebi que seria necessário adotar um critério para selecionar apenas uma parcela representativa das amostras. Foi então que surgiu a ideia de investigar quais cenas foram consideradas mais marcantes no ponto de vista dos espectadores do filme. Combinando essa abordagem ao meu conhecimento em análise de dados e programação, acabei direcionando a pesquisa para um novo caminho.
 
 ---
 
